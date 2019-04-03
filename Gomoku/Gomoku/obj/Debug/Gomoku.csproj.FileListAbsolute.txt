@@ -1,0 +1,13 @@
+D:\Google 雲端硬碟\learn\C#\Gomoku\Gomoku\obj\Debug\Gomoku.csprojAssemblyReference.cache
+D:\Google 雲端硬碟\learn\C#\Gomoku\Gomoku\obj\Debug\Gomoku.Form1.resources
+D:\Google 雲端硬碟\learn\C#\Gomoku\Gomoku\obj\Debug\Gomoku.Properties.Resources.resources
+D:\Google 雲端硬碟\learn\C#\Gomoku\Gomoku\obj\Debug\Gomoku.csproj.GenerateResource.cache
+D:\Google 雲端硬碟\learn\C#\Gomoku\Gomoku\obj\Debug\Gomoku.csproj.CoreCompileInputs.cache
+D:\Google 雲端硬碟\learn\C#\Gomoku\Gomoku\bin\Debug\Gomoku.exe.config
+D:\Google 雲端硬碟\learn\C#\Gomoku\Gomoku\bin\Debug\Gomoku.exe
+D:\Google 雲端硬碟\learn\C#\Gomoku\Gomoku\bin\Debug\Gomoku.pdb
+D:\Google 雲端硬碟\learn\C#\Gomoku\Gomoku\obj\Debug\Gomoku.exe
+D:\Google 雲端硬碟\learn\C#\Gomoku\Gomoku\obj\Debug\Gomoku.pdb
+D:\Google 雲端硬碟\learn\C#\Gomoku\Gomoku\bin\Debug\hsb\Gomoku.resources.dll
+D:\Google 雲端硬碟\learn\C#\Gomoku\Gomoku\obj\Debug\Gomoku.Form1.hsb.resources
+D:\Google 雲端硬碟\learn\C#\Gomoku\Gomoku\obj\Debug\hsb\Gomoku.resources.dll
