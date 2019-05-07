@@ -19,7 +19,7 @@
 
 **網頁內容**
 
-<div align=center><img width="50%" height="50%" src="./ASP01.jpg"/></div>
+<div align=center><img width="50%" height="50%" src="./ASP01.JPG"/></div>
 
 點選上方黑色Nav中的資料輸入，或者點選Buttun繪圖資料輸入，則跑出Modal
 
