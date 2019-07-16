@@ -1,0 +1,3 @@
+D:\Program Files\infomation\MVC\TEST\Cart_Test\Cart2_test\Cart2_test\obj\Debug\Cart.csproj.CoreCompileInputs.cache
+D:\Program Files\infomation\MVC\TEST\Cart_Test\Cart2_test\Cart2_test\obj\Debug\Cart2_test.dll
+D:\Program Files\infomation\MVC\TEST\Cart_Test\Cart2_test\Cart2_test\obj\Debug\Cart2_test.pdb
