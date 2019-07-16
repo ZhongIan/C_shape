@@ -19,19 +19,19 @@
 
 **網頁內容**
 
-<div align=center><img width="50%" height="50%" src="./ASP01.jpg"/></div>
+<div align=center><img width="80%" height="80%" src="./ASP01.JPG"/></div>
 
 點選上方黑色Nav中的資料輸入，或者點選Buttun繪圖資料輸入，則跑出Modal
 
 **Modal**
 
-<div align=center><img width="50%" height="50%" src="./ASP02.jpg"/></div>
+<div align=center><img width="80%" height="80%" src="./ASP02.JPG"/></div>
 
 選擇資料後按下送出，則在指定方法下繪圖，並滾動至此方法
 
 **繪圖**
 
-<div align=center><img width="50%" height="50%" src="./ASP03.jpg"/></div>
+<div align=center><img width="80%" height="80%" src="./ASP03.JPG"/></div>
 
 # 資料傳輸
 
