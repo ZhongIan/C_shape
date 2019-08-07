@@ -91,7 +91,15 @@ MVC是模型(Model) 檢視(View) 控制器(Controller) 的縮寫，概念是把�
 
 [使用ASP.NET MVC 實作購物網站 (二十五) - 購物流程(2)](https://ithelp.ithome.com.tw/articles/10161327) Order與OrderDetail
 
-ManageOrderController中新增SearchByUserName()
+[使用ASP.NET MVC 實作購物網站 (二十六) - 後台訂單列表功能](https://ithelp.ithome.com.tw/articles/10161407) ManageOrderController，其中Index()是顯示目前網站所有訂單，Details()是針對每筆訂單顯示購買商品清單
+
+
+[使用ASP.NET MVC 實作購物網站 (二十七) - 使用者"我的訂單"功能](https://ithelp.ithome.com.tw/articles/10161482) 在Models中新增PartialClass擴充Order類別 定義GetUserName()方法，此方法主要是透過原本儲存在Order類別中的UserId去AspNetUsers表取得UrseName(使用者暱稱)
+
+[使用ASP.NET MVC 實作購物網站 (二十八) - 後台訂單列表搜尋功能](https://ithelp.ithome.com.tw/articles/10161571) ManageOrderController中新增SearchByUserName()
+
+[使用ASP.NET MVC 實作購物網站 (二十九) - 商品留言功能](https://ithelp.ithome.com.tw/articles/10161678)
+
 
 ## 紀錄
 
@@ -156,3 +164,9 @@ ManageOrderController [訂單管理]
 鉛筆盒    350.00    https://s.yimg.com/ut/api/res/1.2/yS21jFbVxrr6rMbcdiyXJA--~B/YXBwaWQ9eXR3bWFsbDtjYz0zMTUzNjAwMDtoPTYwMDtxPTgxO3c9NjAw/https://s.yimg.com/fy/e78b/item/p017352338124-item-14a3xf4x0950x0713-m.jpg
 
 相機	3000	https://e.ecimg.tw/items/DGAD73A9008KCFQ/000001_1516676071.jpg
+
+
+
+
+
+
