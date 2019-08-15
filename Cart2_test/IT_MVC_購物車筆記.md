@@ -9,7 +9,7 @@
 
 **商品管理[商品列表]**
 
-<div align=center><img width="50%" height="50%" src="./商品管理--商品列表.jpg"/></div>
+<div align=center><img width="50%" height="50%" src="./商品管理--商品列表.JPG"/></div>
 
 **商品管理[新增]**
 
