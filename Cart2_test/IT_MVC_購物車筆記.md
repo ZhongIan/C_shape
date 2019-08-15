@@ -13,41 +13,41 @@
 
 **商品管理[新增]**
 
-<div align=center><img width="50%" height="50%" src="./商品管理--新增.jpg"/></div>
+<div align=center><img width="50%" height="50%" src="./商品管理--新增.JPG"/></div>
 
 **商品細節**
 
-<div align=center><img width="50%" height="50%" src="./商品細節.jpg"/></div>
+<div align=center><img width="50%" height="50%" src="./商品細節.JPG"/></div>
 
 ## 購物車
 
 **購物車[首頁]**
 
-<div align=center><img width="50%" height="50%" src="./購物車--首頁.jpg"/></div>
+<div align=center><img width="50%" height="50%" src="./購物車--首頁.JPG"/></div>
 
 **購物車[ajax]**
 
-<div align=center><img width="50%" height="50%" src="./購物車--ajax.jpg"/></div>
+<div align=center><img width="50%" height="50%" src="./購物車--ajax.JPG"/></div>
 
 **購物車[結帳]**
 
-<div align=center><img width="50%" height="50%" src="./購物車--結帳.jpg"/></div>
+<div align=center><img width="50%" height="50%" src="./購物車--結帳.JPG"/></div>
 
 ## 會員管理
 
 **會員管理**
 
-<div align=center><img width="50%" height="50%" src="./會員管理.jpg"/></div>
+<div align=center><img width="50%" height="50%" src="./會員管理.JPG"/></div>
 
 ## 訂單管理
 
 **訂單管理[訂單列表]**
 
-<div align=center><img width="50%" height="50%" src="./訂單管理--訂單列表.jpg"/></div>
+<div align=center><img width="50%" height="50%" src="./訂單管理--訂單列表.JPG"/></div>
 
 **訂單管理[訂單細節]**
 
-<div align=center><img width="50%" height="50%" src="./訂單管理--訂單細節.jpg"/></div>
+<div align=center><img width="50%" height="50%" src="./訂單管理--訂單細節.JPG"/></div>
 
 
 
